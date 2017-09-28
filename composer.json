@@ -1,9 +1,9 @@
 {
-    "name": "pcallahan,nhascup/badgery",
+    "name": "nhascup/badgery",
     "authors": [
         {
-            "name": "Patrick Callahan and Nate Hascup",
-            "email": "pcallahan3@mail.greenriver.edu"
+            "name": "Nate Hascup",
+            "email": "nhascup.greenriver.edu"
             
             
         }
@@ -13,6 +13,6 @@
     },
     
     "autoload":{
-        "classmap":["models/", "classes/"]
+        "classmap":["models/", "controllers/"]
     }
 }

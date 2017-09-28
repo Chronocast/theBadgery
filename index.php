@@ -1,7 +1,7 @@
 <?php
     /*
-	*Author: Nate Hascup & Patrick Callahan
-	*Greenriver IT 328
+	*Author: Nate Hascup
+	*Greenriver IT 355
 	*Badgery index.php
 	*/
        

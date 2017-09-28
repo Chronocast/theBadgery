@@ -41,6 +41,10 @@
 															<div class="col-xs-8">
 																<div class="row">
 																	<div class="col-xs-8">Brewer/Bottler: <?= $badge['badgeSeries'] ?></div>
+																	
+																</div>
+																<div class="row">
+																	<div class="col-xs-8">Location: <?= $badge['city'] ?>/<?= $badge['state'] ?></div>
 																</div>
 															<div class="col-xs-4">
 																<img class="rounded-circle little-badge" src="images/beerIcons/<?= $badge['badge_ID'] ?>.jpg" onerror="this.src='images/beerIcons/beerDefault1.png';"">
