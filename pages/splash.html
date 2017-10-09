@@ -1,6 +1,6 @@
 <!--
     /*
-	*Author: Nate Hascup
+	*Author: Nate Hascup & Jeremy Manalo
 	*Greenriver IT 355
 	*Badgery splash.html
     *Landing page for new users

@@ -1,6 +1,6 @@
 <?php
     /*
-	*Author: Nate Hascup
+	*Author: Nate Hascup & Jeremy Manalo
 	*Greenriver IT 355
 	*Badgery index.php
 	*/

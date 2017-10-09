@@ -2,6 +2,7 @@
     /**
      * Badgery
      * @author Nate Hascup <nshascup@gmail.com>
+     * @author Jeremy Manalo <jmanalo@mail.greenriver.edu>
      * @version 1.0
      */
     
