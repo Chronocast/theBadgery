@@ -1,7 +1,7 @@
 <!--
     /*
-	*Author: Nate Hascup & Patrick Callahan
-	*Greenriver IT 328
+	*Author: Nate Hascup
+	*Greenriver IT 355
 	*Badgery splash.html
     *Landing page for new users
     * --Hope to make it dynamic where it will show user stats if user is logged in on this page
