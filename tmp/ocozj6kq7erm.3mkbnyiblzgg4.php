@@ -1,3 +1,11 @@
+<!--
+    /*
+	*Author: Nate Hascup & Jeremy Manalo
+	*Greenriver IT 355
+	*header.html
+	*/
+-->
+
 
 <!DOCTYPE HTML>
 <html>
