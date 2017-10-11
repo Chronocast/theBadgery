@@ -1,3 +1,11 @@
+<!--
+    /*
+	*Author: Nate Hascup & Jeremy Manalo
+	*Greenriver IT 355
+	*footer.html
+	*/
+-->
+
 
         <div class="footer bg-warning text-white fixed-bottom">
 			<ul class="d-inline-block">
