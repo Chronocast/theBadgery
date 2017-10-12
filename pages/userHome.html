@@ -54,8 +54,8 @@
 												</div>
 										
 												<div class="modal-footer">
-													<button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
-													<button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+													<button class="btn btn-default" type="button" data-dismiss="modal">Add</button>
+													<button class="btn btn-default" type="button" data-dismiss="modal">Remove</button>
 													<button class="btn btn-primary" type="button">Save changes</button>
 												</div>
 											</div><!-- /.modal-content -->
